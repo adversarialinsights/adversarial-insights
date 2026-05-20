@@ -23,5 +23,3 @@ Topics include:
 Whether you are building a red team from scratch or evolving an existing capability, the goal is the same:
 
 Understand where attackers would actually succeed — and create a program capable of finding those paths before they do.
-
-Watch the presentation below.
