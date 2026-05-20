@@ -87,4 +87,4 @@ Everything else is theater.
 
 Adversarial Insights helps organizations identify hidden trust gaps, real attack paths, and where security breaks under pressure.
 
-If this resonates, reach out or leave a comment.
+If this resonates, reach out.
