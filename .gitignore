@@ -1,0 +1,72 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folders
+__MACOSX/
+
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+.bundle/
+vendor/
+vendor/bundle/
+Gemfile.lock
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+*.csr
+
+# SSH / credentials
+id_rsa
+id_rsa.pub
+*.ovpn
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Sensitive exports / archives
+*.zip
+*.tar
+*.gz
+
+# Terraform / cloud
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Misc secrets
+secrets.yml
+credentials.yml
+config/secrets.yml
