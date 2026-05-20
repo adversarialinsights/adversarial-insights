@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#020617"/>
+  <rect x="48" y="48" width="1104" height="534" rx="24" fill="#0F172A" stroke="#334155"/>
+  <circle cx="230" cy="230" r="72" fill="#38BDF8" fill-opacity="0.18"/>
+  <circle cx="320" cy="290" r="14" fill="#7DD3FC"/>
+  <circle cx="430" cy="220" r="10" fill="#94A3B8"/>
+  <circle cx="510" cy="330" r="12" fill="#7DD3FC"/>
+  <line x1="320" y1="290" x2="430" y2="220" stroke="#7DD3FC" stroke-width="3"/>
+  <line x1="320" y1="290" x2="510" y2="330" stroke="#7DD3FC" stroke-width="3"/>
+  <text x="120" y="420" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="54" font-weight="700">Adversarial Insights</text>
+  <text x="120" y="470" fill="#94A3B8" font-family="Arial, sans-serif" font-size="26">Starter blog image placeholder</text>
+</svg>
