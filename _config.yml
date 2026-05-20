@@ -1,0 +1,11 @@
+title: Adversarial Insights
+email: info@adversarialinsights.com
+url: ""
+baseurl: ""
+description: >-
+  Strategic security insight from the attacker's perspective.
+markdown: kramdown
+permalink: /blog/:title/
+theme: null
+plugins: []
+collections: {}
