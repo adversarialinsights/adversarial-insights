@@ -68,8 +68,8 @@ description: Strategic security insight from the attacker’s perspective.
 <section class="section">
   <div class="container">
     <div class="section-header">
-      <h2>Recent insights</h2>
-      <p>Research and thinking on assumptions, attack paths, and how security programs actually fail.</p>
+      <h2>Recent Posts</h2>
+      <p></p>
     </div>
     <div class="post-list">
       {% for post in site.posts limit:3 %}
